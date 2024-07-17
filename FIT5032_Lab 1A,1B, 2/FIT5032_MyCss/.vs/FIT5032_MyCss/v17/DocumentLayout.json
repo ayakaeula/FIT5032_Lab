@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\fit5032_mycss\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|solutionrelative:fit5032_mycss\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mycss\\fit5032_mycss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|solutionrelative:fit5032_mycss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\fit5032_mycss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|solutionrelative:fit5032_mycss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\fit5032_mycss\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36632B9A-FA6F-4C5A-9BC2-C68DA46DA0A9}|FIT5032_MyCss\\FIT5032_MyCss.csproj|solutionrelative:fit5032_mycss\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyCss\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FIT5032_MyCss\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:23:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Views\\Home\\Test.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyCss\\Views\\Home\\Test.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Views\\Home\\Test.cshtml",
+              "RelativeToolTip": "FIT5032_MyCss\\Views\\Home\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:21:04.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyCss\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FIT5032_MyCss\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:17:31.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Content\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "FIT5032_MyCss\\Content\\StyleSheet1.css",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyCss\\FIT5032_MyCss\\Content\\StyleSheet1.css",
+              "RelativeToolTip": "FIT5032_MyCss\\Content\\StyleSheet1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T07:15:30.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
