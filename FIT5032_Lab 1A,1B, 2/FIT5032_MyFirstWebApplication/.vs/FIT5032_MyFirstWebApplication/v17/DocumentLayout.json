@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_myfirstwebapplication\\fit5032_myfirstwebapplication\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|solutionrelative:fit5032_myfirstwebapplication\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\fit5032_myfirstwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|solutionrelative:fit5032_myfirstwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_myfirstwebapplication\\fit5032_myfirstwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|solutionrelative:fit5032_myfirstwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\fit5032_myfirstwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E84E52-CCDF-44CE-8BFF-171D8AAE5D05}|FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication.csproj|solutionrelative:fit5032_myfirstwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyFirstWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FIT5032_MyFirstWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:06:56.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyFirstWebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FIT5032_MyFirstWebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:03:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyFirstWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FIT5032_MyFirstWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T06:47:15.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyFirstWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyFirstWebApplication\\FIT5032_MyFirstWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FIT5032_MyFirstWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T06:42:40.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

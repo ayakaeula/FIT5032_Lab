@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mydatabasefirst\\fit5032_mydatabasefirst\\models\\fit5032_models.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|solutionrelative:fit5032_mydatabasefirst\\models\\fit5032_models.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mydatabasefirst\\fit5032_mydatabasefirst\\models\\fit5032_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|solutionrelative:fit5032_mydatabasefirst\\models\\fit5032_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mydatabasefirst\\fit5032_mydatabasefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|solutionrelative:fit5032_mydatabasefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mydatabasefirst\\fit5032_mydatabasefirst\\models\\fit5032_models.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|solutionrelative:fit5032_mydatabasefirst\\models\\fit5032_models.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mydatabasefirst\\fit5032_mydatabasefirst\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{009386C1-CF53-4B5A-AEBF-518FB1BFCF70}|FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst.csproj|solutionrelative:fit5032_mydatabasefirst\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FIT5032_Models.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.edmx",
+              "RelativeDocumentMoniker": "FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.edmx",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.edmx [Diagram1]",
+              "RelativeToolTip": "FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-17T12:49:45.308Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FIT5032_Models.tt",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.tt",
+              "RelativeDocumentMoniker": "FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.tt",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.tt",
+              "RelativeToolTip": "FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-17T12:49:42.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FIT5032_Models.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.cs",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.cs",
+              "RelativeToolTip": "FIT5032_MyDatabaseFirst\\Models\\FIT5032_Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:49:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FIT5032_MyDatabaseFirst\\Models\\Student.cs",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Models\\Student.cs",
+              "RelativeToolTip": "FIT5032_MyDatabaseFirst\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:49:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FIT5032_MyDatabaseFirst\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyDatabaseFirst\\FIT5032_MyDatabaseFirst\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FIT5032_MyDatabaseFirst\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T12:48:59.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
