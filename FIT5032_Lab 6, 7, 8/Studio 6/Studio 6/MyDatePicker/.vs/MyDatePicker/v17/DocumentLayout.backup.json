@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A19518-5C4A-48A8-B24D-78AD1DD4157D}|MyDatePicker\\MyDatePicker.csproj|d:\\\u684C\u9762\\fit5032lab\\studio 6\\studio 6\\mydatepicker\\mydatepicker\\views\\healthcareappointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59A19518-5C4A-48A8-B24D-78AD1DD4157D}|MyDatePicker\\MyDatePicker.csproj|solutionrelative:mydatepicker\\views\\healthcareappointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A19518-5C4A-48A8-B24D-78AD1DD4157D}|MyDatePicker\\MyDatePicker.csproj|D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\mydatepicker\\controllers\\healthcareappointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A19518-5C4A-48A8-B24D-78AD1DD4157D}|MyDatePicker\\MyDatePicker.csproj|solutionrelative:mydatepicker\\controllers\\healthcareappointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCH_SOURCE_REPOS_MYDATEPICKER_MYDATEPICKER_APP_DATA_MYAPPOINTMENTDB.MDF/True/SqlTable/dbo.HealthCareAppointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A19518-5C4A-48A8-B24D-78AD1DD4157D}|MyDatePicker\\MyDatePicker.csproj|D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\mydatepicker\\models\\appointmentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{59A19518-5C4A-48A8-B24D-78AD1DD4157D}|MyDatePicker\\MyDatePicker.csproj|solutionrelative:mydatepicker\\models\\appointmentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cch\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthCareAppointmentsController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\MyDatePicker\\Controllers\\HealthCareAppointmentsController.cs",
+              "RelativeDocumentMoniker": "MyDatePicker\\Controllers\\HealthCareAppointmentsController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\MyDatePicker\\Controllers\\HealthCareAppointmentsController.cs",
+              "RelativeToolTip": "MyDatePicker\\Controllers\\HealthCareAppointmentsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:15:56.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\cch\\source\\repos\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\cch\\source\\repos\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-18T03:05:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.HealthCareAppointments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCH_SOURCE_REPOS_MYDATEPICKER_MYDATEPICKER_APP_DATA_MYAPPOINTMENTDB.MDF/True/SqlTable/dbo.HealthCareAppointments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCH_SOURCE_REPOS_MYDATEPICKER_MYDATEPICKER_APP_DATA_MYAPPOINTMENTDB.MDF/True/SqlTable/dbo.HealthCareAppointments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-18T03:49:30.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\MyDatePicker\\Views\\HealthCareAppointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyDatePicker\\Views\\HealthCareAppointments\\Create.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\MyDatePicker\\Views\\HealthCareAppointments\\Create.cshtml",
+              "RelativeToolTip": "MyDatePicker\\Views\\HealthCareAppointments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T03:16:37.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 6\\Studio 6\\MyDatePicker\\MyDatePicker\\Models\\AppointmentModel.edmx",
+              "RelativeDocumentMoniker": "MyDatePicker\\Models\\AppointmentModel.edmx",
+              "ToolTip": "C:\\Users\\cch\\source\\repos\\MyDatePicker\\MyDatePicker\\Models\\AppointmentModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-18T03:12:51.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
