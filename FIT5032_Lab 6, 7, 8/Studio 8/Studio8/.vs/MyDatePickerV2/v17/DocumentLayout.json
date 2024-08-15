@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A7D9F-95A3-4488-8249-14CF3142C31A}|MyDatePickerV2\\MyDatePickerV2.csproj|d:\\\u684C\u9762\\fit5032lab\\studio 8\\studio8\\mydatepickerv2\\views\\display\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B01A7D9F-95A3-4488-8249-14CF3142C31A}|MyDatePickerV2\\MyDatePickerV2.csproj|solutionrelative:mydatepickerv2\\views\\display\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A7D9F-95A3-4488-8249-14CF3142C31A}|MyDatePickerV2\\MyDatePickerV2.csproj|D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\mydatepickerv2\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01A7D9F-95A3-4488-8249-14CF3142C31A}|MyDatePickerV2\\MyDatePickerV2.csproj|solutionrelative:mydatepickerv2\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A7D9F-95A3-4488-8249-14CF3142C31A}|MyDatePickerV2\\MyDatePickerV2.csproj|d:\\\u684C\u9762\\fit5032lab\\studio 8\\studio8\\mydatepickerv2\\views\\display\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B01A7D9F-95A3-4488-8249-14CF3142C31A}|MyDatePickerV2\\MyDatePickerV2.csproj|solutionrelative:mydatepickerv2\\views\\display\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\MyDatePickerV2\\Views\\Display\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyDatePickerV2\\Views\\Display\\Edit.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\MyDatePickerV2\\Views\\Display\\Edit.cshtml",
+              "RelativeToolTip": "MyDatePickerV2\\Views\\Display\\Edit.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:19:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\MyDatePickerV2\\Views\\Display\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyDatePickerV2\\Views\\Display\\Index.cshtml",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\MyDatePickerV2\\Views\\Display\\Index.cshtml",
+              "RelativeToolTip": "MyDatePickerV2\\Views\\Display\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:21:39.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\MyDatePickerV2\\Controllers\\DisplayController.cs",
+              "RelativeDocumentMoniker": "MyDatePickerV2\\Controllers\\DisplayController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\Studio 8\\Studio8\\MyDatePickerV2\\Controllers\\DisplayController.cs",
+              "RelativeToolTip": "MyDatePickerV2\\Controllers\\DisplayController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:59:03.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
