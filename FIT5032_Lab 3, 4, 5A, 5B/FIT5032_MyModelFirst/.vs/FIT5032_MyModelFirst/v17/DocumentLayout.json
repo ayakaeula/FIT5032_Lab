@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyModelFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F7058-B648-45C9-AC78-7DBDD692FA3E}|FIT5032_MyModelFirst\\FIT5032_MyModelFirst.csproj|d:\\\u684C\u9762\\fit5032lab\\fit5032_mymodelfirst\\fit5032_mymodelfirst\\models\\fit5032_mymodelfirst.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E10F7058-B648-45C9-AC78-7DBDD692FA3E}|FIT5032_MyModelFirst\\FIT5032_MyModelFirst.csproj|solutionrelative:fit5032_mymodelfirst\\models\\fit5032_mymodelfirst.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FIT5032_MyModelFirst.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyModelFirst\\FIT5032_MyModelFirst\\Models\\FIT5032_MyModelFirst.edmx",
+              "RelativeDocumentMoniker": "FIT5032_MyModelFirst\\Models\\FIT5032_MyModelFirst.edmx",
+              "ToolTip": "D:\\\u684C\u9762\\FIT5032Lab\\FIT5032_MyModelFirst\\FIT5032_MyModelFirst\\Models\\FIT5032_MyModelFirst.edmx [Diagram1]",
+              "RelativeToolTip": "FIT5032_MyModelFirst\\Models\\FIT5032_MyModelFirst.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-11T07:47:48.954Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
